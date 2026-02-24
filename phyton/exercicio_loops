@@ -1,0 +1,19 @@
+# criar lista com 100.000 intens numericos de 1 a 1 até 100.000
+
+# lista = []
+# numero = 1
+# while numero <= 100000:
+#     lista.append(numero)
+#     numero += 1
+# print(lista)
+
+
+
+# # Cria uma lista com números de 10 a 1.000.000, pulando de 10 em 10
+
+# lista1 = []
+# numero = 10
+# while numero <= 10000:
+#     lista1.append(numero)
+#     numero += 10
+# print(lista1)

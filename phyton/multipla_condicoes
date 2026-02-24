@@ -1,0 +1,16 @@
+nfs = ["5556426587", "523184525", "542651865", "86545565659"]
+posicao = nfs.index("542651865")
+
+
+if posicao == 0:
+    print("A nota fiscal está na posição primeira posição.")
+elif posicao == 1:
+    print("A nota fiscal está na segunda posição.")
+elif posicao == 2:
+    print("A nota fiscal está na terceira posição.")
+elif posicao == 3:
+    print("A nota fiscal está na quarta posição.")
+elif posicao == 4:
+    print("A nota fiscal está na quinta posição.")
+else:
+    print("A nota fiscal não está na lista.")

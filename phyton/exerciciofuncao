@@ -1,0 +1,6 @@
+convidados = ["Alice", "Malu", "Paula", "Eloisa", "Gustavo", "Lorenzo", "Ciro", "Marilia", "Ana "]
+quantidade = len(convidados)
+capacidade = 5
+if quantidade > capacidade:
+    convidados.remove(convidados[0])
+    print("A lista de convidados ultrapassou a capacidade máxima. O convidado ", convidados[0], "foi removido da lista.")
